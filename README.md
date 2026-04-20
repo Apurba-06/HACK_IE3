@@ -1,37 +1,56 @@
-⚡ Hack_IE³ | System Override
-    A High-Performance, vision-guided landing page for the ultimate 48-hour neural dive.
+# ⚡ HackIE³ | System Override
 
-🌐 Overview
-    Hack_IE³ is a conceptual landing page designed for a high-stakes techno-management hackathon. The design language focuses on a "Cyber-     System" aesthetic, utilizing dark surfaces, neon accents, and interactive 3D elements to provide an immersive user experience.
+**HackIE³** is a premier 48-hour neural dive into the future of decentralized tech, AI, and systems architecture. Hosted at **Jadavpur University**, this event challenges developers to break boundaries and code the impossible.
 
-🚀 Key Features
-  1)Interactive 3D Matrix: A real-time 3D Earth model built with Three.js, featuring realistic axial tilt and a pinpoint marker on the         "Drop Zone" (Jadavpur University).
-  2)Terminal Registration: A simulated command-line interface for user onboarding, including automated "bypass" sequences and state-            managed input.
-  3)System Overclock (Easter Egg): A hidden "Matrix Mode."
-  4)Trigger: Type hack anywhere on the page to overclock the system.
-  5)Effect: Changes the color palette to Matrix-green, triples particle velocity, and triggers high-frequency audio feedback.
-  6)Revert: Type unhack.
-  7)Neural Canvas: A dynamic background particle network that reacts to mouse proximity, simulating decentralized node synchronization.
-  8)Mobile Optimized: Fully responsive layout with scaled 3D transforms and hidden custom cursors for touch interfaces.
+[**🌐 View the Live Mainframe**](hackie3-garwarg8i-apurbasamanta322-4600s-projects.vercel.app)
 
-🤖 AI Implementation Disclosure
-  As per the Task A requirements, below is the breakdown of how AI was utilized in this project:
+---
 
-  1. 3D Geospatial Mapping
-    I used AI to assist in calculating the spherical coordinate conversion logic (calcPosFromLatLonRad). This ensured that the 3D marker       precisely targets 22.4986° N, 88.3714° E on the Three.js sphere.
+## 🚀 Key Features
 
-  2. Audio & Logic Synchronization
-    The Web Audio API integration for the hover beeps and the "Overclock" state-switching logic was developed using AI-generated               boilerplate, which I then refined to ensure audio contexts resume correctly after user interaction (handling browser autoplay              policies).
+* **3D Holographic Interface:** Interactive 3D carousel for project tracks orbiting a central node.
+* **Realistic Planetary Engine:** A scientifically accurate 23.5° axial-tilted Earth model using Three.js.
+* **System Overclock (Easter Egg):** Type `hack` anywhere on the site to trigger "Matrix Mode." Type `unhack` to restore standard protocols.
+* **Dynamic Stats:** Real-time counting of hackers, hours, and bounties.
+* **Interactive Terminal:** A custom-built registration terminal with state-machine logic for team matchmaking.
 
-  3. Performance Auditing
-    To meet the "Performance and Metrics" rubric, AI helped refactor the requestAnimationFrame loops in the Canvas and Three.js sections       to ensure high FPS on mobile devices without draining battery life.
+---
 
-  4. Glitch CSS Synthesis
-    The complex @keyframes for the "HACK_IE³" glitch effect were synthesized with AI to create randomized clip-path offsets that mimic         digital signal interference.
+## 🏆 System Bounties (₹1,75,000 Pool)
 
-🛠️ Tech Stack
-    Frontend: HTML5, CSS3 (Custom Variables/Properties)
-    Graphics: Three.js (WebGL), Canvas API
-    Interactivity: Vanilla JavaScript (ES6+)
-    Audio: Web Audio API
+* 👑 **Global First Place:** ₹1,00,000
+* 🛠️ **Best Deep Tech:** ₹50,000
+* 🎨 **Best UI/UX Node:** ₹25,000
+
+---
+
+## 📂 System Directives (Tracks)
+
+1.  **AI & Neural Nets:** Building the agents of tomorrow.
+2.  **Web3 & DeFi:** Decentralizing digital ownership.
+3.  **Cyber-Security:** Defending the grid.
+4.  **Autonomous Robotics:** Hardware and vision-guided systems.
+5.  **Open Innovation:** No limits, any stack.
+
+---
+
+## 👨‍💻 Tech Stack
+
+* **Frontend:** HTML5, CSS3 (Custom 3D Transforms)
+* **Graphics:** [Three.js](https://threejs.org/) for the 3D Earth.
+* **Audio:** Web Audio API for feedback beeps.
+* **Deployment:** GitHub Pages.
+
+---
+
+## 🤖 AI Integration (Neural Contributions)
+
+This mainframe was architected and optimized using advanced Neural Networks. The following AI workflows were utilized:
+
+* **Logic & Architecture:** Core system architecture, state-machine terminal logic, and 3D coordinate math provided by *Gemini 1.5 Pro*.
+* **Visual Assets:**
+  * **AI Portraits:** Diverse judge avatars generated using synthetic datasets to represent the global tech landscape.
+  * **Neural Overclock:** Creative conceptualization of the "Matrix Mode" and theme shifting logic.
+  * **Dynamic Solutions:** Implementation of the 3D Holographic Carousel and the scientifically accurate axial-tilted Earth engine via                               natural language prototyping.
+
 
