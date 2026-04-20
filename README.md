@@ -2,8 +2,6 @@
 
 **HackIE³** is a premier 48-hour neural dive into the future of decentralized tech, AI, and systems architecture. Hosted at **Jadavpur University**, this event challenges developers to break boundaries and code the impossible.
 
-[**🌐 View the Live Mainframe**](https://Apurba-06.github.io/hackie3-mainframe/)
-
 ---
 
 ## 🚀 Key Features
